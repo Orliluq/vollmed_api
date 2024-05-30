@@ -1,4 +1,4 @@
-# vollmed_api
+# Vollmed Api
 
 ## Spring Boot 3
 
@@ -10,10 +10,11 @@
 - Usar variables de entorno/ambiente y preparar una aplicación para su implementación/deploy
 
 
-## Links
-Dependencias
+## Links Dependencias
 [Postman](https://www.postman.com/)
+
 [Spring Boot](https://spring.io/projects/spring-boot)
+
 [Alura Latam](https://www.aluracursos.com/)
 
 [Intellij](https://www.jetbrains.com/es-es/idea) 
