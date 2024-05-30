@@ -22,3 +22,5 @@
 [Trello](https://trello.com/b/yGQuuyVV/api-voll-med)
 
 [Figma](https://www.figma.com/design/vgn35i1ErivIN8LJYEqxGZ/Untitled?node-id=0-1&t=RGMnsgamf50gr3ZS-0)
+![[FIGMA](https://github.com/Orliluq/vollmed_api/assets/122529721/e5e6bdfb-6126-49ca-b380-654b728742ba)
+
