@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¶ÏÙ²ü1J$72911c80-4c1e-45db-8a37-fc5adeae0ae8
+¢
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(ø¯Æûüÿÿÿÿ8Ö»Òºü1J$a5fbeb5d-6dd9-41c6-8f94-4ccce37ad552
+
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Å‡Â‹úÿÿÿÿ8ºÏÙ²ü1J$7a7c8212-8e8d-405e-9a8d-30cf63aad557
+
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Å‡Â‹úÿÿÿÿ8ºÏÙ²ü1J$661f2375-8389-46a6-b337-15357aa7f259
+‹
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(úü««8»ÏÙ²ü1J$07f7aa13-1263-4014-a407-0a16ffd431bb
+|
+java:S1874"9Remove this use of "authorizeRequests"; it is deprecated.(úü««8»ÏÙ²ü1J$eb2e997a-4a60-4e02-9ec7-a06f04fea7ef
